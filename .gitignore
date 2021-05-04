@@ -6,3 +6,6 @@
 
 # ignore pycharm
 .idea
+
+# ignore sodapy
+sodapy/

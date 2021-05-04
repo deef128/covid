@@ -1,0 +1,402 @@
+,cases,municipality,state
+0,82,LK Alb-Donau-Kreis,Baden-Württemberg
+1,114,LK Biberach,Baden-Württemberg
+2,202,LK Böblingen,Baden-Württemberg
+3,90,LK Bodenseekreis,Baden-Württemberg
+4,37,LK Breisgau-Hochschwarzwald,Baden-Württemberg
+5,108,LK Calw,Baden-Württemberg
+6,51,LK Emmendingen,Baden-Württemberg
+7,103,LK Enzkreis,Baden-Württemberg
+8,359,LK Esslingen,Baden-Württemberg
+9,57,LK Freudenstadt,Baden-Württemberg
+10,69,LK Göppingen,Baden-Württemberg
+11,48,LK Heidenheim,Baden-Württemberg
+12,221,LK Heilbronn,Baden-Württemberg
+13,56,LK Hohenlohekreis,Baden-Württemberg
+14,153,LK Karlsruhe,Baden-Württemberg
+15,92,LK Konstanz,Baden-Württemberg
+16,69,LK Lörrach,Baden-Württemberg
+17,223,LK Ludwigsburg,Baden-Württemberg
+18,53,LK Main-Tauber-Kreis,Baden-Württemberg
+19,66,LK Neckar-Odenwald-Kreis,Baden-Württemberg
+20,166,LK Ortenaukreis,Baden-Württemberg
+21,129,LK Ostalbkreis,Baden-Württemberg
+22,111,LK Rastatt,Baden-Württemberg
+23,109,LK Ravensburg,Baden-Württemberg
+24,217,LK Rems-Murr-Kreis,Baden-Württemberg
+25,174,LK Reutlingen,Baden-Württemberg
+26,117,LK Rhein-Neckar-Kreis,Baden-Württemberg
+27,79,LK Rottweil,Baden-Württemberg
+28,165,LK Schwäbisch Hall,Baden-Württemberg
+29,137,LK Schwarzwald-Baar-Kreis,Baden-Württemberg
+30,57,LK Sigmaringen,Baden-Württemberg
+31,81,LK Tübingen,Baden-Württemberg
+32,70,LK Tuttlingen,Baden-Württemberg
+33,81,LK Waldshut,Baden-Württemberg
+34,128,LK Zollernalbkreis,Baden-Württemberg
+35,17,SK Baden-Baden,Baden-Württemberg
+36,64,SK Freiburg i.Breisgau,Baden-Württemberg
+37,30,SK Heidelberg,Baden-Württemberg
+38,64,SK Heilbronn,Baden-Württemberg
+39,116,SK Karlsruhe,Baden-Württemberg
+40,106,SK Mannheim,Baden-Württemberg
+41,51,SK Pforzheim,Baden-Württemberg
+42,244,SK Stuttgart,Baden-Württemberg
+43,43,SK Ulm,Baden-Württemberg
+44,144,LK Aichach-Friedberg,Bayern
+45,49,LK Altötting,Bayern
+46,34,LK Amberg-Sulzbach,Bayern
+47,149,LK Ansbach,Bayern
+48,69,LK Aschaffenburg,Bayern
+49,108,LK Augsburg,Bayern
+50,48,LK Bad Kissingen,Bayern
+51,30,LK Bad Tölz-Wolfratshausen,Bayern
+52,18,LK Bamberg,Bayern
+53,32,LK Bayreuth,Bayern
+54,21,LK Berchtesgadener Land,Bayern
+55,40,LK Cham,Bayern
+56,35,LK Coburg,Bayern
+57,48,LK Dachau,Bayern
+58,62,LK Deggendorf,Bayern
+59,44,LK Dillingen a.d.Donau,Bayern
+60,64,LK Dingolfing-Landau,Bayern
+61,108,LK Donau-Ries,Bayern
+62,30,LK Ebersberg,Bayern
+63,60,LK Eichstätt,Bayern
+64,1,LK Erding,Bayern
+65,42,LK Erlangen-Höchstadt,Bayern
+66,32,LK Forchheim,Bayern
+67,30,LK Freising,Bayern
+68,36,LK Freyung-Grafenau,Bayern
+69,66,LK Fürstenfeldbruck,Bayern
+70,48,LK Fürth,Bayern
+71,24,LK Garmisch-Partenkirchen,Bayern
+72,51,LK Günzburg,Bayern
+73,6,LK Haßberge,Bayern
+74,43,LK Hof,Bayern
+75,49,LK Kelheim,Bayern
+76,35,LK Kitzingen,Bayern
+77,38,LK Kronach,Bayern
+78,19,LK Kulmbach,Bayern
+79,21,LK Landsberg a.Lech,Bayern
+80,80,LK Landshut,Bayern
+81,16,LK Lichtenfels,Bayern
+82,18,LK Lindau,Bayern
+83,21,LK Main-Spessart,Bayern
+84,35,LK Miesbach,Bayern
+85,28,LK Miltenberg,Bayern
+86,66,LK Mühldorf a.Inn,Bayern
+87,68,LK München,Bayern
+88,30,LK Neuburg-Schrobenhausen,Bayern
+89,12,LK Neumarkt i.d.OPf.,Bayern
+90,58,LK Neustadt a.d.Aisch-Bad Windsheim,Bayern
+91,27,LK Neustadt a.d.Waldnaab,Bayern
+92,74,LK Neu-Ulm,Bayern
+93,55,LK Nürnberger Land,Bayern
+94,69,LK Oberallgäu,Bayern
+95,63,LK Ostallgäu,Bayern
+96,84,LK Passau,Bayern
+97,43,LK Pfaffenhofen a.d.Ilm,Bayern
+98,27,LK Regen,Bayern
+99,71,LK Regensburg,Bayern
+100,25,LK Rhön-Grabfeld,Bayern
+101,64,LK Rosenheim,Bayern
+102,27,LK Roth,Bayern
+103,84,LK Rottal-Inn,Bayern
+104,25,LK Schwandorf,Bayern
+105,58,LK Schweinfurt,Bayern
+106,15,LK Starnberg,Bayern
+107,34,LK Straubing-Bogen,Bayern
+108,13,LK Tirschenreuth,Bayern
+109,65,LK Traunstein,Bayern
+110,60,LK Unterallgäu,Bayern
+111,22,LK Weilheim-Schongau,Bayern
+112,45,LK Weißenburg-Gunzenhausen,Bayern
+113,20,LK Wunsiedel i.Fichtelgebirge,Bayern
+114,35,LK Würzburg,Bayern
+115,10,SK Amberg,Bayern
+116,29,SK Ansbach,Bayern
+117,31,SK Aschaffenburg,Bayern
+118,118,SK Augsburg,Bayern
+119,7,SK Bamberg,Bayern
+120,25,SK Bayreuth,Bayern
+121,23,SK Coburg,Bayern
+122,28,SK Erlangen,Bayern
+123,97,SK Fürth,Bayern
+124,25,SK Hof,Bayern
+125,21,SK Kaufbeuren,Bayern
+126,41,SK Kempten,Bayern
+127,36,SK Landshut,Bayern
+128,33,SK Memmingen,Bayern
+129,374,SK München,Bayern
+130,334,SK Nürnberg,Bayern
+131,16,SK Passau,Bayern
+132,36,SK Regensburg,Bayern
+133,15,SK Rosenheim,Bayern
+134,12,SK Schwabach,Bayern
+135,47,SK Schweinfurt,Bayern
+136,30,SK Straubing,Bayern
+137,13,SK Weiden i.d.OPf.,Bayern
+138,19,SK Würzburg,Bayern
+139,62,SK Berlin Charlottenburg-Wilmersdorf,Berlin
+140,67,SK Berlin Friedrichshain-Kreuzberg,Berlin
+141,115,SK Berlin Lichtenberg,Berlin
+142,45,SK Berlin Marzahn-Hellersdorf,Berlin
+143,242,SK Berlin Mitte,Berlin
+144,162,SK Berlin Neukölln,Berlin
+145,94,SK Berlin Pankow,Berlin
+146,25,SK Berlin Reinickendorf,Berlin
+147,69,SK Berlin Spandau,Berlin
+148,52,SK Berlin Steglitz-Zehlendorf,Berlin
+149,171,SK Berlin Tempelhof-Schöneberg,Berlin
+150,64,SK Berlin Treptow-Köpenick,Berlin
+151,40,LK Barnim,Brandenburg
+152,55,LK Dahme-Spreewald,Brandenburg
+153,29,LK Elbe-Elster,Brandenburg
+154,50,LK Havelland,Brandenburg
+155,93,LK Märkisch-Oderland,Brandenburg
+156,43,LK Oberhavel,Brandenburg
+157,36,LK Oberspreewald-Lausitz,Brandenburg
+158,80,LK Oder-Spree,Brandenburg
+159,28,LK Ostprignitz-Ruppin,Brandenburg
+160,81,LK Potsdam-Mittelmark,Brandenburg
+161,23,LK Prignitz,Brandenburg
+162,53,LK Spree-Neiße,Brandenburg
+163,53,LK Teltow-Fläming,Brandenburg
+164,57,LK Uckermark,Brandenburg
+165,13,SK Brandenburg a.d.Havel,Brandenburg
+166,23,SK Cottbus,Brandenburg
+167,26,SK Frankfurt (Oder),Brandenburg
+168,46,SK Potsdam,Brandenburg
+169,186,SK Bremen,Bremen
+170,33,SK Bremerhaven,Bremen
+171,400,SK Hamburg,Hamburg
+172,74,LK Bergstraße,Hessen
+173,94,LK Darmstadt-Dieburg,Hessen
+174,121,LK Fulda,Hessen
+175,117,LK Gießen,Hessen
+176,137,LK Groß-Gerau,Hessen
+177,85,LK Hersfeld-Rotenburg,Hessen
+178,79,LK Hochtaunuskreis,Hessen
+179,102,LK Kassel,Hessen
+180,70,LK Lahn-Dill-Kreis,Hessen
+181,84,LK Limburg-Weilburg,Hessen
+182,167,LK Main-Kinzig-Kreis,Hessen
+183,19,LK Main-Taunus-Kreis,Hessen
+184,105,LK Marburg-Biedenkopf,Hessen
+185,26,LK Odenwaldkreis,Hessen
+186,122,LK Offenbach,Hessen
+187,59,LK Rheingau-Taunus-Kreis,Hessen
+188,61,LK Schwalm-Eder-Kreis,Hessen
+189,34,LK Vogelsbergkreis,Hessen
+190,65,LK Waldeck-Frankenberg,Hessen
+191,38,LK Werra-Meißner-Kreis,Hessen
+192,111,LK Wetteraukreis,Hessen
+193,45,SK Darmstadt,Hessen
+194,293,SK Frankfurt am Main,Hessen
+195,104,SK Kassel,Hessen
+196,66,SK Offenbach,Hessen
+197,108,SK Wiesbaden,Hessen
+198,85,LK Ludwigslust-Parchim,Mecklenburg-Vorpommern
+199,114,LK Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
+200,47,LK Nordwestmecklenburg,Mecklenburg-Vorpommern
+201,52,LK Rostock,Mecklenburg-Vorpommern
+202,48,LK Vorpommern-Greifswald,Mecklenburg-Vorpommern
+203,61,LK Vorpommern-Rügen,Mecklenburg-Vorpommern
+204,30,SK Rostock,Mecklenburg-Vorpommern
+205,16,SK Schwerin,Mecklenburg-Vorpommern
+206,20,LK Aurich,Niedersachsen
+207,33,LK Celle,Niedersachsen
+208,42,LK Cuxhaven,Niedersachsen
+209,66,LK Diepholz,Niedersachsen
+210,95,LK Emsland,Niedersachsen
+211,11,LK Friesland,Niedersachsen
+212,2,LK Gifhorn,Niedersachsen
+213,22,LK Goslar,Niedersachsen
+214,61,LK Göttingen,Niedersachsen
+215,49,LK Grafschaft Bentheim,Niedersachsen
+216,51,LK Hameln-Pyrmont,Niedersachsen
+217,44,LK Harburg,Niedersachsen
+218,26,LK Heidekreis,Niedersachsen
+219,17,LK Helmstedt,Niedersachsen
+220,55,LK Hildesheim,Niedersachsen
+221,17,LK Holzminden,Niedersachsen
+222,35,LK Leer,Niedersachsen
+223,4,LK Lüchow-Dannenberg,Niedersachsen
+224,27,LK Lüneburg,Niedersachsen
+225,26,LK Nienburg (Weser),Niedersachsen
+226,55,LK Oldenburg,Niedersachsen
+227,85,LK Osnabrück,Niedersachsen
+228,45,LK Osterholz,Niedersachsen
+229,62,LK Rotenburg (Wümme),Niedersachsen
+230,51,LK Schaumburg,Niedersachsen
+231,50,LK Stade,Niedersachsen
+232,24,LK Uelzen,Niedersachsen
+233,113,LK Vechta,Niedersachsen
+234,1,LK Verden,Niedersachsen
+235,26,LK Wesermarsch,Niedersachsen
+236,38,LK Wolfenbüttel,Niedersachsen
+237,394,Region Hannover,Niedersachsen
+238,28,SK Oldenburg,Niedersachsen
+239,43,SK Osnabrück,Niedersachsen
+240,53,SK Salzgitter,Niedersachsen
+241,34,SK Wilhelmshaven,Niedersachsen
+242,75,SK Wolfsburg,Niedersachsen
+243,95,LK Borken,Nordrhein-Westfalen
+244,58,LK Coesfeld,Nordrhein-Westfalen
+245,75,LK Düren,Nordrhein-Westfalen
+246,161,LK Ennepe-Ruhr-Kreis,Nordrhein-Westfalen
+247,97,LK Euskirchen,Nordrhein-Westfalen
+248,196,LK Gütersloh,Nordrhein-Westfalen
+249,75,LK Heinsberg,Nordrhein-Westfalen
+250,88,LK Herford,Nordrhein-Westfalen
+251,84,LK Hochsauerlandkreis,Nordrhein-Westfalen
+252,42,LK Höxter,Nordrhein-Westfalen
+253,135,LK Kleve,Nordrhein-Westfalen
+254,117,LK Lippe,Nordrhein-Westfalen
+255,200,LK Märkischer Kreis,Nordrhein-Westfalen
+256,192,LK Mettmann,Nordrhein-Westfalen
+257,66,LK Minden-Lübbecke,Nordrhein-Westfalen
+258,192,LK Oberbergischer Kreis,Nordrhein-Westfalen
+259,61,LK Olpe,Nordrhein-Westfalen
+260,123,LK Paderborn,Nordrhein-Westfalen
+261,277,LK Recklinghausen,Nordrhein-Westfalen
+262,137,LK Rhein-Erft-Kreis,Nordrhein-Westfalen
+263,84,LK Rheinisch-Bergischer Kreis,Nordrhein-Westfalen
+264,149,LK Rhein-Kreis Neuss,Nordrhein-Westfalen
+265,125,LK Rhein-Sieg-Kreis,Nordrhein-Westfalen
+266,188,LK Siegen-Wittgenstein,Nordrhein-Westfalen
+267,50,LK Soest,Nordrhein-Westfalen
+268,110,LK Steinfurt,Nordrhein-Westfalen
+269,225,LK Unna,Nordrhein-Westfalen
+270,48,LK Viersen,Nordrhein-Westfalen
+271,131,LK Warendorf,Nordrhein-Westfalen
+272,121,SK Bielefeld,Nordrhein-Westfalen
+273,173,SK Bochum,Nordrhein-Westfalen
+274,97,SK Bonn,Nordrhein-Westfalen
+275,75,SK Bottrop,Nordrhein-Westfalen
+276,241,SK Dortmund,Nordrhein-Westfalen
+277,204,SK Duisburg,Nordrhein-Westfalen
+278,127,SK Düsseldorf,Nordrhein-Westfalen
+279,187,SK Essen,Nordrhein-Westfalen
+280,140,SK Gelsenkirchen,Nordrhein-Westfalen
+281,107,SK Hagen,Nordrhein-Westfalen
+282,73,SK Hamm,Nordrhein-Westfalen
+283,59,SK Herne,Nordrhein-Westfalen
+284,543,SK Köln,Nordrhein-Westfalen
+285,105,SK Krefeld,Nordrhein-Westfalen
+286,48,SK Leverkusen,Nordrhein-Westfalen
+287,59,SK Mönchengladbach,Nordrhein-Westfalen
+288,101,SK Mülheim a.d.Ruhr,Nordrhein-Westfalen
+289,68,SK Münster,Nordrhein-Westfalen
+290,93,SK Oberhausen,Nordrhein-Westfalen
+291,60,SK Remscheid,Nordrhein-Westfalen
+292,46,SK Solingen,Nordrhein-Westfalen
+293,186,SK Wuppertal,Nordrhein-Westfalen
+294,204,StadtRegion Aachen,Nordrhein-Westfalen
+295,18,LK Ahrweiler,Rheinland-Pfalz
+296,28,LK Altenkirchen,Rheinland-Pfalz
+297,48,LK Alzey-Worms,Rheinland-Pfalz
+298,29,LK Bad Dürkheim,Rheinland-Pfalz
+299,43,LK Bad Kreuznach,Rheinland-Pfalz
+300,20,LK Bernkastel-Wittlich,Rheinland-Pfalz
+301,34,LK Birkenfeld,Rheinland-Pfalz
+302,13,LK Bitburg-Prüm,Rheinland-Pfalz
+303,18,LK Cochem-Zell,Rheinland-Pfalz
+304,24,LK Donnersbergkreis,Rheinland-Pfalz
+305,43,LK Germersheim,Rheinland-Pfalz
+306,16,LK Kaiserslautern,Rheinland-Pfalz
+307,14,LK Kusel,Rheinland-Pfalz
+308,70,LK Mainz-Bingen,Rheinland-Pfalz
+309,45,LK Mayen-Koblenz,Rheinland-Pfalz
+310,39,LK Neuwied,Rheinland-Pfalz
+311,20,LK Rhein-Hunsrück-Kreis,Rheinland-Pfalz
+312,58,LK Rhein-Lahn-Kreis,Rheinland-Pfalz
+313,31,LK Rhein-Pfalz-Kreis,Rheinland-Pfalz
+314,29,LK Südliche Weinstraße,Rheinland-Pfalz
+315,18,LK Südwestpfalz,Rheinland-Pfalz
+316,28,LK Trier-Saarburg,Rheinland-Pfalz
+317,13,LK Vulkaneifel,Rheinland-Pfalz
+318,84,LK Westerwaldkreis,Rheinland-Pfalz
+319,18,SK Frankenthal,Rheinland-Pfalz
+320,44,SK Kaiserslautern,Rheinland-Pfalz
+321,8,SK Koblenz,Rheinland-Pfalz
+322,15,SK Landau i.d.Pfalz,Rheinland-Pfalz
+323,59,SK Ludwigshafen,Rheinland-Pfalz
+324,106,SK Mainz,Rheinland-Pfalz
+325,6,SK Neustadt a.d.Weinstraße,Rheinland-Pfalz
+326,14,SK Pirmasens,Rheinland-Pfalz
+327,29,SK Speyer,Rheinland-Pfalz
+328,30,SK Trier,Rheinland-Pfalz
+329,32,SK Worms,Rheinland-Pfalz
+330,9,SK Zweibrücken,Rheinland-Pfalz
+331,15,LK Merzig-Wadern,Saarland
+332,29,LK Neunkirchen,Saarland
+333,64,LK Saarlouis,Saarland
+334,29,LK Saarpfalz-Kreis,Saarland
+335,17,LK Sankt Wendel,Saarland
+336,334,LK Stadtverband Saarbrücken,Saarland
+337,309,LK Bautzen,Sachsen
+338,255,LK Erzgebirgskreis,Sachsen
+339,136,LK Görlitz,Sachsen
+340,96,LK Leipzig,Sachsen
+341,94,LK Meißen,Sachsen
+342,250,LK Mittelsachsen,Sachsen
+343,108,LK Nordsachsen,Sachsen
+344,129,LK Sächsische Schweiz-Osterzgebirge,Sachsen
+345,120,LK Vogtlandkreis,Sachsen
+346,257,LK Zwickau,Sachsen
+347,54,SK Chemnitz,Sachsen
+348,232,SK Dresden,Sachsen
+349,159,SK Leipzig,Sachsen
+350,38,LK Altmarkkreis Salzwedel,Sachsen-Anhalt
+351,44,LK Anhalt-Bitterfeld,Sachsen-Anhalt
+352,40,LK Börde,Sachsen-Anhalt
+353,102,LK Burgenlandkreis,Sachsen-Anhalt
+354,69,LK Harz,Sachsen-Anhalt
+355,27,LK Jerichower Land,Sachsen-Anhalt
+356,39,LK Mansfeld-Südharz,Sachsen-Anhalt
+357,70,LK Saalekreis,Sachsen-Anhalt
+358,27,LK Salzlandkreis,Sachsen-Anhalt
+359,61,LK Stendal,Sachsen-Anhalt
+360,17,LK Wittenberg,Sachsen-Anhalt
+361,33,SK Dessau-Roßlau,Sachsen-Anhalt
+362,91,SK Halle,Sachsen-Anhalt
+363,62,SK Magdeburg,Sachsen-Anhalt
+364,24,LK Dithmarschen,Schleswig-Holstein
+365,35,LK Herzogtum Lauenburg,Schleswig-Holstein
+366,8,LK Nordfriesland,Schleswig-Holstein
+367,26,LK Ostholstein,Schleswig-Holstein
+368,71,LK Pinneberg,Schleswig-Holstein
+369,11,LK Plön,Schleswig-Holstein
+370,30,LK Rendsburg-Eckernförde,Schleswig-Holstein
+371,21,LK Schleswig-Flensburg,Schleswig-Holstein
+372,35,LK Segeberg,Schleswig-Holstein
+373,21,LK Steinburg,Schleswig-Holstein
+374,12,SK Flensburg,Schleswig-Holstein
+375,27,SK Kiel,Schleswig-Holstein
+376,20,SK Lübeck,Schleswig-Holstein
+377,3,SK Neumünster,Schleswig-Holstein
+378,44,LK Altenburger Land,Thüringen
+379,31,LK Eichsfeld,Thüringen
+380,115,LK Gotha,Thüringen
+381,59,LK Greiz,Thüringen
+382,18,LK Hildburghausen,Thüringen
+383,53,LK Ilm-Kreis,Thüringen
+384,47,LK Kyffhäuserkreis,Thüringen
+385,18,LK Nordhausen,Thüringen
+386,32,LK Saale-Holzland-Kreis,Thüringen
+387,33,LK Saale-Orla-Kreis,Thüringen
+388,100,LK Saalfeld-Rudolstadt,Thüringen
+389,63,LK Schmalkalden-Meiningen,Thüringen
+390,41,LK Sömmerda,Thüringen
+391,56,LK Sonneberg,Thüringen
+392,25,LK Unstrut-Hainich-Kreis,Thüringen
+393,81,LK Wartburgkreis,Thüringen
+394,42,LK Weimarer Land,Thüringen
+395,22,SK Eisenach,Thüringen
+396,77,SK Erfurt,Thüringen
+397,75,SK Gera,Thüringen
+398,18,SK Jena,Thüringen
+399,8,SK Suhl,Thüringen
+400,23,SK Weimar,Thüringen
