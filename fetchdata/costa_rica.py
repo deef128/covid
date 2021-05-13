@@ -46,9 +46,8 @@ class CovidCR(CovidData):
         fpath = max(files, key=date_created)
 
         if fpath is not None and fpath.exists():
-            try:
-                data = pd.read_csv(fpath, sep=';', encoding='latin1', parse_dates=True)
-            except:
+            data = pd.read_csv(fpath, sep=';', encoding='latin1', parse_dates=True)
+            if data.shape[1] == 1:
                 data = pd.read_csv(fpath, sep=',', encoding='macintosh', parse_dates=True)
 
             # reverse cumsum values
