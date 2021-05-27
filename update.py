@@ -1,7 +1,12 @@
 import fetchdata.colombia as fcolombia
 import fetchdata.costa_rica as fcosta
 import fetchdata.germany as fgermany
+import fetchdata.mexico as fmexico
 import matplotlib.pyplot as plt
+
+mexico = fmexico.CovidMexico()
+mexico.fetch_data()
+mexico.plot_dashboard(state=['YUCATAN', 'QUINTANA ROO'])
 
 costa = fcosta.CovidCR()
 costa.fetch_data()

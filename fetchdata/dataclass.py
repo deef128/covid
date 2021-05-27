@@ -85,8 +85,8 @@ class CovidData:
             incidence.append(inci.item())
 
         if axis is None:
-            plt.figure()
-            axis = plt.plot(self.dates[6:], incidence)
+            _, axis = plt.subplots()
+            plt.plot(self.dates[6:], incidence)
         else:
             axis.plot(self.dates[6:], incidence)
         s = 'Incidence on {}: {:.2f} ({:.2f})'.format(self.last_date_str, incidence[-1], -1*(incidence[-2] - incidence[-1]))
